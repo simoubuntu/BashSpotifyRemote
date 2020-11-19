@@ -20,4 +20,6 @@ Save it in `refresh.tk`
 
 All the paths in the scripts are absolute and refer to a folder called `apiremote` in the home folder of pi user. If you place them in another folder you have to edit those paths (I'm sorry!).
 
+To use the *Transfer Here* function you have to save the target device id in a file called `deviceid.tk` placed in the same folder.
+
 These scripts are a very useful to use a remote to control [Raspotify](https://github.com/dtcooper/raspotify).
